@@ -1,4 +1,4 @@
-# SOSC-Competititive-Programming-DSA-mini_project--2
+## SOSC-Competititive-Programming-DSA-mini_project--2
 
 **Password Generator**
 
@@ -54,7 +54,7 @@ Here are some resources that were used to understand random number generation an
 
 2. [Python Random Module - Generate Random Numbers and Sequences](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
 
-3. [Video: How to Generate Random Passwords in Python](https://www.youtube.com/watch?v=oXEDMNXzuo4)
+3. [Video: How to Generate Random Passwords in C](https://www.youtube.com/watch?v=oXEDMNXzuo4)
 
 4. [Create a Random Password Generator using Python](https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences)
 
@@ -84,6 +84,8 @@ Here are some resources that were used to understand random number generation an
    g++ password_generator.cpp -o password_generator
    ./password_generator
    ```
+
+ ---  
 
 **Note:**
 
