@@ -43,7 +43,7 @@ int main() {
     shuffle(password.begin(), password.end(), generator);
 
     // Output the generated password
-    cout << "This is your password requirements: " << password << endl;
+    cout << "This is your password requirements:😎 " << password << endl;
 
     return 0;
 }
